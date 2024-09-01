@@ -7,6 +7,7 @@
 <div align="center">
 
 🌱 Pythonista
+💬 Entusiasta do universo de dados
 
 </div>
 <div align="center">
